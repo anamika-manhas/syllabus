@@ -139,4 +139,4 @@ The course is divided into 2 parts:
 #### Class 10 ( *Oct 26, 2017* )
   1. Grid Based Layout
   2. Bootstrap and other Frameworks 
-  
+  3. Media Queries
